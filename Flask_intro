@@ -1,0 +1,31 @@
+Flask:
+
+	It is a web application framework which is written in python.
+
+	You can create a lot of end to end projects.
+
+	Developed by: Armin Ronacher
+
+	based on WSGI and jinja 2 template engine
+
+	WSGI: Web Server Gateway Interface
+
+
+ -----------              WSGI                     ----------------------
+|web server | --------------------------------->  |web application(Flask)|
+ -----------  <--------------------------------    ----------------------
+   Apache                                                 Amazon.in
+
+
+
+
+Jinja 2:
+	It is a Web templating system, 
+	Combines web template along with certain data source (ML model/SQL dbs etc).	
+________________________________________________________________
+
+Introduction to Flask
+Setting VS code to learn flask
+A sample flask application'
+Python Flask tutorial- Routing
+Python Flask tutorial- variable and rules
